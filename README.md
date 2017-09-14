@@ -13,7 +13,7 @@ A Picture-Sharing Website which supports create/edit/delete image, description a
 * Run ```index.js```
 
 ## Demo
-Check out the demo [here](https://murmuring-beyond-26768.herokuapp.com/)
+Check out the [demo](https://murmuring-beyond-26768.herokuapp.com/)
 
 ## Screenshot
 * Landing page<br>
