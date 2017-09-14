@@ -8,7 +8,7 @@ var express = require("express"),
     passportLocalMongoose = require("passport-local-mongoose"),
     methodOverride = require("method-override");
     
-mongoose.connect("mongodb://xiaoluo:one123@ds135534.mlab.com:35534/picture-sharing");
+mongoose.connect(DATABASE_URL);
 
 app.use(bodyparser.urlencoded({extended : true}));
 app.use(express.static("public"));
