@@ -16,7 +16,7 @@ A Picture-Sharing Website which supports create/edit/delete image, description a
 Check out the demo [here](https://murmuring-beyond-26768.herokuapp.com/)
 
 ## Screenshot
-<img "src="https://github.com/xiaoluo2017/iPicture/blob/master/images/landing.png"/>
+<img src="https://github.com/xiaoluo2017/iPicture/blob/master/images/landing.png"/>
 
 ## Dependencies
 Update the relevant ```package.json``` file.
