@@ -18,8 +18,10 @@ Check out the demo [here](https://murmuring-beyond-26768.herokuapp.com/)
 ## Screenshot
 * Landing page<br>
 <img src="https://github.com/xiaoluo2017/iPicture/blob/master/images/landing.png"/>
+
 * Pictures page<br>
 <img src="https://github.com/xiaoluo2017/iPicture/blob/master/images/pictures.png"/>
+
 * Comments page<br>
 <img src="https://github.com/xiaoluo2017/iPicture/blob/master/images/comments.png"/>
 
