@@ -1,0 +1,21 @@
+<% include partials/header %> 
+
+<div class="container">
+    <div class="row">
+        <h1 class="text-center beautytitle">Sign Up</h1>
+        <h3 class="text-center beautyword">Share beautiful pictures all over the world</h3>
+        <div style="width: 30%; margin:25px auto;">
+            <!--important-->
+            <form action="/register" method="post">
+                <div class="form-group">
+                    <input type="text" class="form-control" name="username" placeholder="username">
+                </div>
+                <div class="form-group">
+                    <input type="password" class="form-control" name="password" placeholder="password">
+                </div>
+                <button type="submit" class="btn btn-primary btn-lg btn-block">Create Account</button>
+            </form>
+        </div>
+    </div>
+</div>
+<% include partials/footer %>
