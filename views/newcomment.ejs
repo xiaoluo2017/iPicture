@@ -1,0 +1,19 @@
+<% include partials/header %>
+
+<div class="container">
+    <div class="row">
+        <h1 class="text-center">Add New Comment to <%=image.name%></h1>
+        <div style="width: 30%; margin:25px auto;">
+            <!--important-->
+            <form action="/images/<%=image.id%>/comments"/comments" method="POST">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="text" name="text">
+                </div>
+                <button type="submit" class="btn btn-primary btn-lg btn-block">Submit!</button>
+            </form>
+            <a href="/images/<%=image.id%>">Go Back</a>
+        </div>
+    </div>
+</div>
+
+<% include partials/footer %>
