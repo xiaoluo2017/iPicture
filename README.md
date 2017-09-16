@@ -7,10 +7,10 @@ A Picture-Sharing Website which supports create/edit/delete image, description a
 * Edit or delete the images and comments belong to you
 
 ## Usage
-* ```git clone``` this repository.
-* Update the relevant ```package.json``` file.
-* Set parameters DATEBASE_URL in ```index.js``` to standard MongoDB URI on mLab(or other hosted database)
-* Run ```index.js```
+* ```git clone https://github.com/xiaoluo2017/iPicture```
+* ```npm install```
+* ```npm start```
+* open your browser and go to localhost:8080
 
 ## Demo
 Check out the [demo](https://murmuring-beyond-26768.herokuapp.com/)
